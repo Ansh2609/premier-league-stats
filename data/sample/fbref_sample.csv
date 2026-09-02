@@ -1,0 +1,21 @@
+Player,Squad,Nation,Pos,Age,Born,Min_standard,Gls_standard,Ast_standard,Cmp_passing,Tkl_defense,Succ_possession,CrdY_misc,CrdR_misc,Season
+Erling Haaland,Manchester City,n/a,FW,24,2000,1114,7,3,2002,26,66,5,0,2023-2024
+Kevin De Bruyne,Manchester City,n/a,MF,33,1991,1981,1,8,799,29,8,5,0,2023-2024
+Mohamed Salah,Liverpool,n/a,FW,32,1992,2684,6,1,1802,32,55,9,0,2023-2024
+Virgil van Dijk,Liverpool,n/a,DF,33,1991,1285,4,2,2131,76,19,8,0,2023-2024
+Bukayo Saka,Arsenal,n/a,FW,23,2001,2812,6,4,2031,32,46,0,1,2023-2024
+Declan Rice,Arsenal,n/a,MF,25,1999,2807,0,4,968,42,9,8,0,2023-2024
+Cole Palmer,Chelsea,n/a,MF,22,2002,3102,4,2,945,14,11,7,1,2023-2024
+Bruno Fernandes,Manchester United,n/a,MF,30,1994,2572,1,3,1316,19,27,6,1,2023-2024
+Son Heung-min,Tottenham Hotspur,n/a,FW,32,1992,2357,5,4,1095,13,12,4,1,2023-2024
+Alexander Isak,Newcastle United,n/a,FW,25,1999,1206,7,3,1302,40,36,7,0,2023-2024
+James Maddison,Tottenham Hotspur,n/a,MF,27,1997,1330,1,2,1386,21,74,9,1,2023-2024
+Ollie Watkins,Aston Villa,n/a,FW,28,1996,1972,5,3,1063,31,40,8,0,2023-2024
+Martin Odegaard,Arsenal,n/a,MF,26,1998,3189,2,4,1029,36,55,1,0,2023-2024
+Rodri,Manchester City,n/a,MF,28,1996,1485,2,2,1750,15,46,5,0,2023-2024
+William Saliba,Arsenal,n/a,DF,23,2001,1643,3,1,2125,89,75,1,0,2023-2024
+Trent Alexander-Arnold,Liverpool,n/a,DF,26,1998,2179,6,3,398,80,12,7,1,2023-2024
+Phil Foden,Manchester City,n/a,MF,24,2000,1811,2,3,877,38,70,0,0,2023-2024
+Marcus Rashford,Manchester United,n/a,FW,27,1997,1573,4,1,982,10,55,9,0,2023-2024
+Jarrod Bowen,West Ham United,n/a,FW,27,1997,1611,7,2,1413,15,41,5,1,2023-2024
+Bernardo Silva,Manchester City,n/a,MF,30,1994,1652,2,3,2402,39,36,0,1,2023-2024

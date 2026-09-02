@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+
+# Real scraped/generated data & artifacts - regenerate locally, don't commit
+data/raw/*
+data/processed/*
+models/*.joblib
+reports/*.png
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!models/.gitkeep
+!reports/.gitkeep
