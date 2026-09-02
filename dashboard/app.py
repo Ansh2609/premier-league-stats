@@ -3,11 +3,15 @@ season stats, contract, and actual vs model-predicted transfer value.
 
 Run with: streamlit run dashboard/app.py
 """
+import sys
+from pathlib import Path
+
 import joblib
 import matplotlib.pyplot as plt
 import pandas as pd
 import streamlit as st
 
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 from src.features import build_feature_matrix
 
 PLAYERS_CSV = "data/processed/players.csv"
